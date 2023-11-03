@@ -13,10 +13,11 @@ Whereas:
 - 0.252: Convertion ratio from VMW to Broadcom (i.e. one receives 0.252 Broadcom shares for each VMW share which is converted)
 - 0.521: Anyone who elected to convert all VMW shares to Broadcom shares will only get 52.1% of their shares converted to Broadcom shares.
 
-See also: https://investors.broadcom.com/news-releases/news-release-details/broadcom-and-vmware-provide-update-pending-transaction
+For details and fine print see the [Broadcom press release](https://investors.broadcom.com/news-releases/news-release-details/broadcom-and-vmware-provide-update-pending-transaction)
 
-## Cloud hosted
+## Online version
 You can access an online version of the script via: https://vmwvalue.hlsd.de
+
 The page will auto-refresh every 30s.
 
 ## Run it on your own computer
