@@ -21,7 +21,7 @@ html_template = """\
   <body style="margin: 0px;">
   <div style="display: flex; justify-content: center;">
     <div style="position: relative;">
-      <div style="color: #40ff00; font-size: 25vw; font-weight: bold;">{0:.2f}</div>
+      <div style="color: #2eb82e; font-size: 25vw; font-weight: bold;">{0:.2f}</div>
       <div title="Formula: 142.50 * 0.479 + $AVGO * 0.252 * 0.521"; style="color: grey;">
         Current virtual value of VMW 
         (<a href="https://github.com/thulsdau/vmwvalue/" style="text-decoration: none; color: darkgrey">?</a>)
